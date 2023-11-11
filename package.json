@@ -1,0 +1,22 @@
+{
+  "name": "keeping-track",
+  "version": "1.0.0",
+  "description": "Employee tracker",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "mysql2": "^2.3.0",
+    "inquirer": "^8.1.2",
+    "dotenv": "^16.3.1"
+  },
+  "engines": {
+    "node": ">=14.8.0"
+  },
+  "author": "Reginald Gardner",
+  "license": "MIT"
+}
+
+
+
